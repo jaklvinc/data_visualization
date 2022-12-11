@@ -1,0 +1,15 @@
+#C:\Users\vince\miniconda3\envs\viz\lib\site-packages\ipykernel_launcher.py -f C:\Users\vince\AppData\Roaming\jupyter\runtime\kernel-aa0ce598-d8bd-4d85-975a-212dcb2d0a55.json
+# GMT Tue Nov 22 19:29:41 2022
+# 
+Czechia Prague Slovakia Poland Germany Austria
+Prague
+Slovakia Bratislava Hungary Poland
+Hungary Budapest Austria
+Poland Warsaw Germany
+Germany Berlin Austria
+Austria Vienna
+Bratislava
+Budapest
+Warsaw
+Berlin
+Vienna
