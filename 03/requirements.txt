@@ -1,0 +1,11 @@
+chess
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
+scikit-optimize
+scipy
+mlxtend
+dtreeviz
+yellowbrick
